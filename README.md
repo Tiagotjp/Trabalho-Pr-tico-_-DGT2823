@@ -27,18 +27,6 @@ Este repositório contém a implementação do **Trabalho Prático da disciplina
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-📁 Trabalho_Pratico_DGT2823/
-├── 📄 README.md
-├── 📄 Trabalho_Pratico_DGT2823.ipynb / .py (se preferir usar script Python puro)
-├── 📄 dataset.csv (conjunto de dados fornecido)
-└── 📄 Trabalho_Prático_DGT2823.pdf (documento oficial com orientações)
-```
-
----
-
 ## 📈 Roteiro das Microatividades
 
 ### Microatividade 1 – Leitura de CSV com Pandas
